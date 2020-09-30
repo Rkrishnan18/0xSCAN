@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python 
 # -*- coding: utf-8 -*-
 # 0xScan v2.0
 # Developed by: Abdullah Alzahrani and Saud Alanzi
@@ -147,5 +147,5 @@ def main():
     else:
         sys.exit(0)
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
